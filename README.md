@@ -10,6 +10,10 @@ I am Aonnghus, a PhD student working on deep learning applied to medical images.
 - [mtheme](https://github.com/matze/mtheme): A modern $\LaTeX$ Beamer theme
 - [Flux beamer](https://github.com/povanberg/flux-beamer): Flux is a modern style beamer presentation
 
+```math
+Ax=b
+```
+
 ### Deep learning
 
 ### Miscellaneous
