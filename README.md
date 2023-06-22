@@ -1,4 +1,21 @@
-### Hi there 👋
+# Hi there 👋
+
+I am Aonnghus, a PhD student working on deep learning applied to medical images.
+
+## Some projects I find interesting
+
+### $\LaTeX$ stuff
+
+- [Beamerposter](https://github.com/deselaers/latex-beamerposter): Create research poster with $\LaTeX$
+- [mtheme](https://github.com/matze/mtheme): A modern $\LaTeX$ Beamer theme
+- [Flux beamer](https://github.com/povanberg/flux-beamer): Flux is a modern style beamer presentation
+
+### Deep learning
+
+### Miscellaneous
+
+
+- 
 
 <!--
 **Aonnghus/Aonnghus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
