@@ -2,7 +2,7 @@
 
 I am Aonnghus, a PhD student working on deep learning applied to medical images.
 
-## Some projects I find interesting
+### Some projects I find interesting
 
 See my [starred repos](https://github.com/Aonnghus?tab=stars)!
 
