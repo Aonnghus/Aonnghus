@@ -6,7 +6,7 @@ I am Aonnghus, a PhD student working on deep learning applied to medical images.
 
 ### $\LaTeX$ stuff
 
-- [Beamerposter](https://github.com/deselaers/latex-beamerposter): Create research poster with $\LaTeX$
+- [Beamerposter](https://github.com/deselaers/latex-beamerposter): Create research poster with $Ax=b$
 - [mtheme](https://github.com/matze/mtheme): A modern $\LaTeX$ Beamer theme
 - [Flux beamer](https://github.com/povanberg/flux-beamer): Flux is a modern style beamer presentation
 
